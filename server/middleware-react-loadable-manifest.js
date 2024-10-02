@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST='{"src\\\\components\\\\GoogleLogin\\\\GoogleLogin.tsx -> reactjs-social-login":{"id":4810,"files":["static/chunks/4810.b988016f1b3f1f3e.js"]}}';
